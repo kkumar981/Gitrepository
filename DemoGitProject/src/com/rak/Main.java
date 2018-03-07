@@ -7,6 +7,7 @@ public class Main {
 			System.out.println("Hello");  
 			System.out.println("Hello world Git test ");  
 			System.out.println("Hello world Git master checkin changes "); 
+			System.out.println("Hello world Git master checkin2 changes "); 
 	}
 
 }
