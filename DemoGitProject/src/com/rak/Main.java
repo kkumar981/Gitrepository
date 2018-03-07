@@ -1,4 +1,4 @@
- package com.rak;
+package com.rak;
 
 public class Main {
 
